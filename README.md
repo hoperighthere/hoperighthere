@@ -1,4 +1,5 @@
 ## Hi there 🌻
-<p align="top">
-  <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" />
-</p>
+
+<picture>
+  <img src="https://github.com/hoperighthere/hoperighthere/whale.jpg" align="right" width="35%" alt="Header Image">
+</picture>
